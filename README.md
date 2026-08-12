@@ -59,57 +59,20 @@ Gradually introducing testing and production practices
 
 Repository: github.com/deepak5204/DailyTaskManager
 
-Technical Focus
+## 🛠️ Technical Focus
 
-Area
-
-Technologies
-
-Android
-
-Kotlin, Jetpack Compose, Material 3
-
-Architecture
-
-MVVM, Clean Architecture, Repository Pattern
-
-Async
-
-Coroutines, Flow, StateFlow
-
-Local Data
-
-Room
-
-Networking
-
-Retrofit, OkHttp, REST
-
-Dependency Injection
-
-Hilt
-
-Backend
-
-Node.js, Express.js, MongoDB, Mongoose
-
-Security
-
-JWT, bcrypt
-
-Tooling
-
-Git, GitHub, Linux, Postman
-
-Delivery
-
-GitHub Actions, CI/CD
-
-Fundamentals
-
-OS, Networking, DSA, System Design
-
-GitHub Overview
+| Area | Technologies |
+|------|--------------|
+| **Android** | Kotlin, Jetpack Compose, Material 3 |
+| **Architecture** | MVVM, Clean Architecture, Repository Pattern |
+| **Async & State** | Coroutines, Flow, StateFlow |
+| **Local Storage** | Room |
+| **Networking** | Retrofit, OkHttp, REST APIs |
+| **Dependency Injection** | Hilt |
+| **Backend** | Node.js, Express.js, MongoDB, Mongoose |
+| **Security** | JWT, bcrypt |
+| **DevOps & Tooling** | Git, GitHub, Linux, Postman, GitHub Actions, CI/CD |
+| **Engineering Fundamentals** | Operating Systems, Networking, DSA, System Design |
 
 <div align="center">
 
@@ -167,6 +130,8 @@ What I'm Learning
 
 I'm currently deepening my understanding of the engineering layers behind modern applications:
 
+```text
+
 Android Internals
       │
       ├── Runtime & lifecycle
@@ -190,6 +155,8 @@ Production Engineering
       ├── CI/CD
       ├── Containers
       └── Observability
+
+```
 
 Connect
 
