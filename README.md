@@ -15,49 +15,30 @@ I build mobile and backend systems with a focus on clean architecture, reliabili
 
 </div>
 
-About
+## About
 
-Software Engineer focused on Android development and backend engineering.
+**Software Engineer | Android & Backend**
 
-My primary stack is Kotlin on Android and Node.js on the backend. I enjoy working across the application boundary — from UI and state management to networking, persistence, APIs, and delivery.
+I build Android applications and backend services with a focus on **clean architecture, reliable state management, scalable APIs, and production-oriented engineering**.
 
-I'm particularly interested in the engineering behind the code: runtime behavior, concurrency, networking, databases, system design, and production practices.
+My primary stack is **Kotlin + Jetpack Compose** on Android and **Node.js + MongoDB** on the backend.
 
-Core stack
+### Focus Areas
 
-Android: Kotlin, Jetpack Compose, Coroutines, StateFlow, Room, Hilt, Retrofit, OkHttp
+* **Android:** Kotlin, Jetpack Compose, Coroutines, Flow, Room, Hilt
+* **Backend:** Node.js, Express.js, MongoDB, REST APIs, JWT
+* **Architecture:** MVVM, Clean Architecture, Repository Pattern, Dependency Injection
+* **Engineering:** Networking, concurrency, databases, system design, CI/CD
 
-Architecture: MVVM, Clean Architecture, Repository Pattern, Dependency Injection
+### Current Work
 
-Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
+**DailyTaskManager** — Android task-management application focused on applying production-oriented engineering practices across architecture, persistence, state management, dependency injection, and testing.
 
-Engineering: Git, GitHub, Linux, Postman, CI/CD, GitHub Actions
+**Stack:** Kotlin · Jetpack Compose · Room · Hilt · Coroutines · StateFlow
 
-Fundamentals: DSA, Operating Systems, Networking, System Design
+[View Repository](https://github.com/deepak5204/DailyTaskManager)
 
-Selected Work
 
-DailyTaskManager
-
-Android · Kotlin · Jetpack Compose · Room · Hilt · Coroutines · StateFlow
-
-A task-management application being built with production-oriented engineering practices rather than as a simple CRUD demo.
-
-Focus areas
-
-Clean separation between presentation, domain, and data layers
-
-Local persistence with Room
-
-Dependency management with Hilt
-
-Reactive UI state using Coroutines and StateFlow
-
-Task priorities, categories, due dates, and lifecycle-aware state
-
-Gradually introducing testing and production practices
-
-Repository: github.com/deepak5204/DailyTaskManager
 
 ## 🛠️ Technical Focus
 
