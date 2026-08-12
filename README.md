@@ -1,292 +1,207 @@
 <div align="center">
 
-Hi 👋, I'm Deepak Kumar
+Deepak Kumar
 
-Software Engineer | Android & Backend Developer
+Software Engineer · Android · Backend
 
-Building reliable mobile and backend systems, while going deeper into Android internals, backend engineering, system design, and CI/CD.
-
-<p>
-  <a href="https://github.com/deepak5204">
-    <img src="https://komarev.com/ghpvc/?username=deepak5204&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  </a>
-  <a href="https://github.com/deepak5204?tab=followers">
-    <img src="https://img.shields.io/github/followers/deepak5204?label=Followers&style=flat" alt="GitHub followers"/>
-  </a>
-  <a href="https://github.com/deepak5204?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat&logo=github" alt="Repositories"/>
-  </a>
-</p>
+I build mobile and backend systems with a focus on clean architecture, reliability, maintainability, and understanding how things work under the hood.
 
 <p>
-  <a href="https://www.linkedin.com/in/deepak5204">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/deep5204/">
-    <img src="https://img.shields.io/badge/LeetCode-deep5204-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:pdeepak1255@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pdeepak1255%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://github.com/deepak5204"><img src="https://img.shields.io/badge/GitHub-deepak5204-181717?style=flat-square&logo=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/deepak5204"><img src="https://img.shields.io/badge/LinkedIn-Deepak%20Kumar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/deep5204/"><img src="https://img.shields.io/badge/LeetCode-deep5204-F89F1B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:pdeepak1255@gmail.com"><img src="https://img.shields.io/badge/Email-pdeepak1255-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
-👨‍💻 About Me
+About
 
-🔭 Currently building DailyTaskManager — a production-oriented Android task management app.
+Software Engineer focused on Android development and backend engineering.
 
-📱 Android development with Kotlin, Jetpack Compose, MVVM, Coroutines, Room, Hilt and Clean Architecture.
+My primary stack is Kotlin on Android and Node.js on the backend. I enjoy working across the application boundary — from UI and state management to networking, persistence, APIs, and delivery.
 
-⚙️ Backend development with Node.js, Express.js, MongoDB, REST APIs and authentication.
+I'm particularly interested in the engineering behind the code: runtime behavior, concurrency, networking, databases, system design, and production practices.
 
-🌱 Currently learning Android internals, backend engineering, system design and CI/CD.
+Core stack
 
-🧠 I enjoy understanding how systems work internally, not just how to use frameworks.
+Android: Kotlin, Jetpack Compose, Coroutines, StateFlow, Room, Hilt, Retrofit, OkHttp
 
-🤝 Open to collaborating on Android, backend and developer-tool projects.
+Architecture: MVVM, Clean Architecture, Repository Pattern, Dependency Injection
 
-💬 Ask me about Android development, Kotlin, backend APIs and software engineering.
+Backend: Node.js, Express.js, MongoDB, Mongoose, REST APIs, JWT
 
-📫 Reach me at pdeepak1255@gmail.com.
+Engineering: Git, GitHub, Linux, Postman, CI/CD, GitHub Actions
 
-🛠️ Tech Stack
+Fundamentals: DSA, Operating Systems, Networking, System Design
 
-📱 Android
+Selected Work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,gradle" alt="Android stack"/>
-</p>
+DailyTaskManager
 
-Kotlin · Jetpack Compose · Material 3 · MVVM · Clean Architecture · Coroutines · StateFlow · Hilt · Room · Retrofit · OkHttp · Navigation · Coil
+Android · Kotlin · Jetpack Compose · Room · Hilt · Coroutines · StateFlow
 
-⚙️ Backend
+A task-management application being built with production-oriented engineering practices rather than as a simple CRUD demo.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,js,ts" alt="Backend stack"/>
-</p>
+Focus areas
 
-Node.js · Express.js · MongoDB · Mongoose · REST APIs · JWT · bcrypt · Joi · Swagger
+Clean separation between presentation, domain, and data layers
 
-🧰 Tools & Engineering
+Local persistence with Room
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,figma" alt="Tools"/>
-</p>
+Dependency management with Hilt
 
-Git · GitHub · Linux · Postman · Docker · CI/CD · GitHub Actions · API Design
+Reactive UI state using Coroutines and StateFlow
 
-🚀 Featured Project
+Task priorities, categories, due dates, and lifecycle-aware state
 
-<div align="center">
+Gradually introducing testing and production practices
 
-<a href="https://github.com/deepak5204/DailyTaskManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak5204&repo=DailyTaskManager&theme=tokyonight&hide_border=true" alt="DailyTaskManager"/>
-</a>
+Repository: github.com/deepak5204/DailyTaskManager
 
-</div>
-
-📋 DailyTaskManager
-
-A practical Android task-management application focused on clean architecture and real-world engineering practices.
-
-Highlights
-
-🏗️ MVVM + Clean Architecture
-
-💉 Hilt dependency injection
-
-🗄️ Room local database
-
-🔄 Kotlin Coroutines + StateFlow
-
-🎨 Jetpack Compose + Material 3
-
-📅 Task priorities, categories and due dates
-
-🧪 Designed with maintainability and testing in mind
-
-👉 View the project →
-
-📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=deepak5204&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak5204&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages"/>
-
-</div>
-
-🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deepak5204&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
-📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak5204&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
-
-</div>
-
-🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deepak5204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub trophies"/>
-
-</div>
-
-📌 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak5204&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub overview"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/deepak5204?tab=repositories">
-    <img src="https://img.shields.io/badge/Total%20Repositories-View%20All-181717?style=for-the-badge&logo=github" alt="Total repositories"/>
-  </a>
-  <a href="https://github.com/deepak5204?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Repositories-View%20Stars-181717?style=for-the-badge&logo=github" alt="Starred repositories"/>
-  </a>
-</p>
-
-Note: GitHub's public profile does not provide a single stable badge endpoint for "total stars received across all repositories." The analytics card above is intentionally used instead of displaying a hard-coded number that can become stale.
-
-💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/deep5204/">
-  <img src="https://leetcard.jacoblin.cool/deep5204?theme=dark&font=Karma&ext=heatmap" alt="LeetCode profile"/>
-</a>
-
-</div>
-
-🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deepak5204/deepak5204/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
-
-</div>
-
-If the snake is not showing, enable the GitHub Action described below.
-
-📚 Currently Learning
-
-Android Internals
-       ↓
-Kotlin & Coroutines
-       ↓
-Backend Engineering
-       ↓
-System Design
-       ↓
-CI/CD & Production Engineering
-
-I'm particularly interested in understanding the path from:
-
-Code → Process → Runtime → Network → Database → Deployment → Production
-
-🎯 Engineering Focus
+Technical Focus
 
 Area
 
-Current Focus
+Technologies
 
-📱 Android
+Android
 
-Compose, Coroutines, Room, Hilt, Android Internals
+Kotlin, Jetpack Compose, Material 3
 
-⚙️ Backend
+Architecture
 
-Node.js, Express, MongoDB, REST APIs
+MVVM, Clean Architecture, Repository Pattern
 
-🏗️ Architecture
+Async
 
-MVVM, Clean Architecture, modular design
+Coroutines, Flow, StateFlow
 
-🌐 Networking
+Local Data
 
-HTTP, REST, Retrofit, OkHttp
+Room
 
-🗄️ Data
+Networking
 
-Room, MongoDB, SQL fundamentals
+Retrofit, OkHttp, REST
 
-🚀 DevOps
+Dependency Injection
 
-GitHub Actions, CI/CD, Docker
+Hilt
 
-🧠 Fundamentals
+Backend
+
+Node.js, Express.js, MongoDB, Mongoose
+
+Security
+
+JWT, bcrypt
+
+Tooling
+
+Git, GitHub, Linux, Postman
+
+Delivery
+
+GitHub Actions, CI/CD
+
+Fundamentals
 
 OS, Networking, DSA, System Design
 
-🤝 Let's Connect
+GitHub Overview
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/deepak5204">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="mailto:pdeepak1255@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
 <a href="https://github.com/deepak5204">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/deep5204/">
-  <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deepak5204&theme=tokyonight" height="180" alt="GitHub summary"/>
 </a>
 
-<br><br>
-
-⭐ If you find something useful here, consider starring the repository!
+<a href="https://github.com/deepak5204">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak5204&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/>
+</a>
 
 </div>
 
-⚙️ GitHub Contribution Snake Setup
+<div align="center">
+<a href="https://github.com/deepak5204">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepak5204&theme=tokyonight" width="95%" alt="GitHub contribution summary"/>
+</a>
+</div>
 
-Create .github/workflows/snake.yml in your profile repository:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: deepak5204
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-
-      - name: Publish snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Languages
 
 <div align="center">
+<a href="https://github.com/deepak5204">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak5204&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top languages"/>
+</a>
+</div>
 
-Thanks for visiting my profile! 🚀
+Language statistics represent repository composition; they are not a measure of proficiency.
 
+Contribution Activity
+
+<div align="center">
+<a href="https://github.com/deepak5204">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak5204&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="95%" alt="GitHub contribution activity"/>
+</a>
+</div>
+
+Contribution Streak
+
+<div align="center">
+<a href="https://github.com/deepak5204">
+  <img src="https://streak-stats.demolab.com?user=deepak5204&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</a>
+</div>
+
+Coding Profile
+
+<div align="center">
+<a href="https://leetcode.com/deep5204/">
+  <img src="https://leetcard.jacoblin.cool/deep5204?theme=dark&font=Karma" width="500" alt="LeetCode profile"/>
+</a>
+</div>
+
+What I'm Learning
+
+I'm currently deepening my understanding of the engineering layers behind modern applications:
+
+Android Internals
+      │
+      ├── Runtime & lifecycle
+      ├── Concurrency & coroutines
+      └── Performance
+      │
+Backend Engineering
+      │
+      ├── API design
+      ├── Databases
+      └── Authentication
+      │
+System Design
+      │
+      ├── Scalability
+      ├── Reliability
+      └── Distributed systems
+      │
+Production Engineering
+      │
+      ├── CI/CD
+      ├── Containers
+      └── Observability
+
+Connect
+
+I'm interested in opportunities and collaborations around Android, backend engineering, and software engineering.
+
+<p>
+  <a href="mailto:pdeepak1255@gmail.com">Email</a>
+  · <a href="https://www.linkedin.com/in/deepak5204">LinkedIn</a>
+  · <a href="https://github.com/deepak5204">GitHub</a>
+  · <a href="https://leetcode.com/deep5204/">LeetCode</a>
+</p>
+
+<div align="center">
+<sub>Building software, understanding systems, and improving one layer at a time.</sub>
 </div>
