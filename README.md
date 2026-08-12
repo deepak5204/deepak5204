@@ -55,7 +55,7 @@ Building reliable mobile and backend systems, while going deeper into Android in
 📱 Android
 
 <p>
-  <img src="https://skillicons.dev/icons?i=android,gradle" alt="Android stack"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,gradle" alt="Android stack"/>
 </p>
 
 Kotlin · Jetpack Compose · Material 3 · MVVM · Clean Architecture · Coroutines · StateFlow · Hilt · Room · Retrofit · OkHttp · Navigation · Coil
