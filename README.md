@@ -62,7 +62,7 @@ My primary stack is **Kotlin + Jetpack Compose** on Android and **Node.js + Mong
 </a>
 
 <a href="https://github.com/deepak5204">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak5204&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepak5204&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="180" alt="GitHub statistics"/>
 </a>
 
 </div>
