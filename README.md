@@ -94,9 +94,12 @@ Contribution Activity
 Contribution Streak
 
 <div align="center">
-<a href="https://github.com/deepak5204">
-  <img src="https://streak-stats.demolab.com?user=deepak5204&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</a>
+  <a href="https://github.com/deepak5204">
+    <img
+      src="https://streak-stats.demolab.com?user=deepak5204&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata"
+      alt="GitHub contribution streak"
+    />
+  </a>
 </div>
 
 Coding Profile
